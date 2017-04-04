@@ -1,0 +1,16 @@
+elpa/*
+recentf/*
+places
+bookmarks
+recentf
+tramp
+*.cache
+*.dat
+*.last
+projectile-bookmarks.eld
+.python-environments/
+python-mode.el*
+
+
+\#*\#
+*~
